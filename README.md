@@ -2,11 +2,7 @@
   <img src="bytes.png" alt="Bytes" width="550">
 </p>
 
-<h1 align="center">Garena Major Secondary Account Bind</h1>
-
-<p align="center">
-  Python tool for constructing and sending an encrypted account-bind request.
-</p>
+<h1 align="center">FF Secondary Account Bind</h1>
 
 ## Features
 
