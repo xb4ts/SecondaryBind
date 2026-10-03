@@ -1,9 +1,5 @@
 <h1 align="center">FF Secondary Account Bind</h1>
 
-<p align="center">
-  <img src="bytes.png" alt="Bytes" width="550">
-</p>
-
 ## Features
 
 * Exchanges a Twitter platform token through OAuth endpoint.
