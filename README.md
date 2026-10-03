@@ -1,6 +1,8 @@
 # FF Secondary Account Bind
 
-bytes.png
+<p align="center">
+  <img src="bytes.png" alt="Bytes" width="180">
+</p>
 
 ## Features
 
