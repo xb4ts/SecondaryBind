@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bytes.png" alt="Bytes" width="850">
+  <img src="bytes.png" alt="Bytes" width="550">
 </p>
 
 <h1 align="center">Garena Major Secondary Account Bind</h1>
