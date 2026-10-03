@@ -4,6 +4,10 @@
   <img src="bytes.png" alt="Bytes" width="180">
 </p>
 
+<p align="center">
+  Python tool for constructing and sending an encrypted account-bind request.
+</p>
+
 ## Features
 
 * Exchanges a Twitter platform token through OAuth endpoint.
